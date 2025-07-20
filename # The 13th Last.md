@@ -20,7 +20,6 @@ flowchart LR
         - Paragon Blade 15pts
         - Banestrike Bolter 5pts
         *140pts* 
-         __Prime Trait:__ Paragon of Battle
     ]
     Command[
         __Champion__ 105pts
